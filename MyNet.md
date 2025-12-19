@@ -1,4 +1,4 @@
-CVE-2024-35321
+<h1>CVE-2024-35321</h1>
 Exploit Title: MyNet | RXSS in msgtipo <= 26.08 fixed on version 26.08.316
 Date: 10/05/2024
 Exploit Author: André Monteiro & Manuel Tavares
